@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AddTwoNumbers/AddTwoNumbers/obj
+/AddTwoNumbers/.vs/AddTwoNumbers
+/AddTwoNumbers/AddTwoNumbers/bin/Debug/net8.0
